@@ -28,7 +28,7 @@ A simple Python script that uses ADB and `pure-python-adb` to **automate followi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/instagram-adb-bot.git
+git clone https://github.com/aldisonll/instagram-adb-automation.git
 cd instagram-adb-bot
 
 # (Recommended) Create a virtual environment
